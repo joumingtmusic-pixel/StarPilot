@@ -1,0 +1,5 @@
+https://example.com/news/article1
+https://example.com/news/article2
+https://example.com/news/article3
+https://example.com/products/item1
+https://example.com/products/item2
